@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- All %s must remain in string but can change position -->
+    <string id="32000">Screensaver Timeout</string>
+    <string id="32001">Folder containing videos</string>
+    <string id="32002">Folder containing bumper videos</string>
+    <string id="32003">Number of items to play between bumpers</string>
+    <string id="32004">Play this many bumpers in sequence</string>
+    <string id="32005">Play bumpers initially</string>
+</strings>

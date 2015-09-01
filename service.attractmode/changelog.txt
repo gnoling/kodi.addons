@@ -1,0 +1,5 @@
+v1.0.1 (August 31, 2015) :
+  - added vfs support
+
+v1.0.0 (August 21, 2015) :
+  - initial release
