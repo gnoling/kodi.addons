@@ -18,7 +18,7 @@
       <source>"https://github.com/gnoling/service.attractmode"</source>
     </extension>
   </addon>
-  <addon id="context.playtrailer.contextmenu" name="Play trailer - Contextmenu" version="1.0.0" provider-name="gnoling">
+  <addon id="context.playtrailer.contextmenu" name="Play trailer - Contextmenu" version="1.0.1" provider-name="gnoling">
     <requires>
       <import addon="xbmc.python" version="2.20.0"/>
     </requires>
